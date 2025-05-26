@@ -67,4 +67,4 @@
 65      SQLCHAR             0       8       ","      65    ice_sit_trend                                  SQL_Latin1_General_CP1_CI_AS
 66      SQLCHAR             0       12      ","      66    ind_for_precip                                 ""
 67      SQLCHAR             0       12      ","      67    amt_precip                                     ""
-68      SQLCHAR             0       12      "\n"     68    dur_of_per                                     ""
+68      SQLCHAR             0       12      "\r\n"   68    dur_of_per                                     ""
